@@ -1,0 +1,19 @@
+#sidebar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  width: 256px;
+  z-index: 1;
+  padding: 10px;
+  border-right: 1px solid black;
+  height: 100%;
+}
+#content{
+  margin-left: 256px;
+  padding-left: 25px;
+}
+h5{
+  padding: 0px;
+  margin: 0px;
+}
